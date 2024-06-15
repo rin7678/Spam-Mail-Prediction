@@ -15,7 +15,7 @@ The goal of this project is to build a predictive model to classify SMS messages
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/spam-sms-detection.git
+    git clone https://github.com/rin7678/Spam-Mail-Prediction.git
     ```
 
 2. Navigate to the project directory:
